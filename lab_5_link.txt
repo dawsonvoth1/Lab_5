@@ -1,3 +1,2 @@
 Dawson Voth
-The link to your lab_5 folder inside your Labs_3308 repository.
-Submit your text file to Canvas by the deadline.
+https://github.com/dawsonvoth1/Lab_5.git
